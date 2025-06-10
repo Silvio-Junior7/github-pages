@@ -1,0 +1,11 @@
+# Vai até a pasta do projeto
+cd /caminho/da/sua/pasta
+
+# Inicializa o repositório local
+git init
+
+# Adiciona todos os arquivos
+git add .
+
+# Faz o primeiro commit
+git commit -m "Primeiro commit"
